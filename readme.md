@@ -1,1 +1,1 @@
-- (https://dropbox.design/article/mental-models-for-designers?ref=webdesignernews.com) Mental models for designers
+- [Mental Models for Designers - Dropbox](https://dropbox.design/article/mental-models-for-designers?ref=webdesignernews.com)
